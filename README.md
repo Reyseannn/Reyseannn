@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hey, I'm Reysean Policarpio!
 
-<!--
-**Reyseannn/Reyseannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a first-year **Computer Engineering student** who enjoys building practical software and hardware projects.  
+🚀 I'm currently improving my skills in **web development, programming, and embedded systems**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🎓 Studying **BS Computer Engineering**
+- 🌱 Learning through academic and personal projects
+- 🎮 Lead developer of **FireFlies**, an educational web game
+- 🛠️ Interested in software, web development, and Arduino projects
+- 🤝 Open to freelance work and project collaborations
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| 💻 Languages | C++, Python, Java, JavaScript |
+| 🌐 Frontend | HTML, CSS, React, Vite |
+| ⚙️ Backend | Python, FastAPI |
+| 🔌 Hardware | Arduino UNO |
+| 🧰 Tools | Git, GitHub, VS Code, Arduino IDE |
+
+---
+
+## 📌 Featured Project
+
+### 🌐 Reysean Portfolio
+
+My personal portfolio featuring my background, experience, and completed projects.
+
+[View Repository](https://github.com/Reyseannn/ReyseanPortfolio)
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/reyseanpolicarpio21/)
+- [GitHub](https://github.com/Reyseannn)
+
+---
+
+> “Build, learn, and improve—one project at a time.”
