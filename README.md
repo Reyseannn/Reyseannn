@@ -20,7 +20,7 @@
 | Category | Technologies |
 |---|---|
 | 💻 Languages | C++, Python, Java, JavaScript |
-| 🌐 Frontend | HTML, CSS, React, Vite |
+| 🌐 Frontend | HTML, CSS  |
 | ⚙️ Backend | Python, FastAPI |
 | 🔌 Hardware | Arduino UNO |
 | 🧰 Tools | Git, GitHub, VS Code, Arduino IDE |
