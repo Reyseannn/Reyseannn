@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Reysean Policarpio!
 
-💻 I'm a first-year **Computer Engineering student** who enjoys building practical software and hardware projects.  
+💻 I'm a first year **Computer Engineering student** who enjoys building practical software and hardware projects.  
 🚀 I'm currently improving my skills in **web development, programming, and embedded systems**.
 
 ---
@@ -21,7 +21,7 @@
 |---|---|
 | 💻 Languages | C++, Python, Java, JavaScript |
 | 🌐 Frontend | HTML, CSS  |
-| ⚙️ Backend | Python, FastAPI |
+| ⚙️ Backend | Python |
 | 🔌 Hardware | Arduino UNO |
 | 🧰 Tools | Git, GitHub, VS Code, Arduino IDE |
 
