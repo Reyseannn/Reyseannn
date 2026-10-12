@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: paupahan-manager
+    runtime: python
+    plan: free
+    region: singapore
+    buildCommand: python -m compileall -q api backend server.py
+    startCommand: python server.py
+    healthCheckPath: /api/config
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.10
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_PUBLISHABLE_KEY
+        sync: false
+      - key: COOKIE_SECRET
+        generateValue: true
